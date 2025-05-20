@@ -4,12 +4,18 @@ This project aims to conduct an in-depth analysis of "Superstore" sales data. Th
 
 ## Project Goals
 Exploratory Data Analysis (EDA): Comprehensively understand the dataset's structure, content, and characteristics, and identify data quality issues.
+
 Data Cleaning and Preprocessing: Handle missing values, outliers, and data type conversions to ensure data quality and analytical accuracy.
+
 Sales Performance Insights: Analyze sales performance across various dimensions (e.g., product, category, region, customer).
+
 Profit-Driven Analysis: Identify high-profit products and regions, and analyze profit composition.
+
 Pareto Analysis (80/20 Rule): Identify the key products, customers, or regions that contribute the most to sales revenue or profit.
+
 Interactive Dashboard: Build a visualization dashboard using Tableau to provide an intuitive and interactive analytical interface.
-Data Source
+
+## Data Source
 This project utilizes a typical "Superstore" sales dataset, which includes fields such as Order ID, product information, sales figures, profit, customer details, and geographical location.
 
 ## File Structure
@@ -17,7 +23,7 @@ sales_analysis.ipynb: The core analysis file, containing complete Python code an
 Supersotre_Dashboard.tableau: Tableau dashboard files, comprising all visualization reports and interactive views (please choose the correct file extension based on your actual file).
 data/: Contains the raw dataset (if the dataset is included in the repository).
 
-##Analysis Methods and Technologies
+## Analysis Methods and Technologies
 This project primarily employs the following analytical methods and tools:
 
 Python:
@@ -26,7 +32,7 @@ Matplotlib / Seaborn: For data visualization, supporting chart creation during t
 Pareto Analysis: Applying the 80/20 rule to identify the vital few contributors.
 Tableau: For building powerful, interactive data dashboards to enable multi-dimensional data exploration.
 
-##Analysis Highlights and Key Findings
+## Analysis Highlights and Key Findings
 Through this analysis, we are able to:
 
 Identify Key Products/Customers/Regions: Precisely pinpoint the "star" products, customer segments, and geographical areas that contribute the vast majority of sales revenue or profit, providing a basis for resource allocation.
