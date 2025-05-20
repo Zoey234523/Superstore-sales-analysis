@@ -21,7 +21,7 @@ This project utilizes a typical "Superstore" sales dataset, which includes field
 ## File Structure
 sales_analysis.ipynb: The core analysis file, containing complete Python code and detailed explanations for Exploratory Data Analysis (EDA), data cleaning and preprocessing, and Pareto analysis.
 
-Supersotre_Dashboard.tableau: Tableau dashboard files, comprising all visualization reports and interactive views (please choose the correct file extension based on your actual file).
+Supersotre_Dashboard.tableau: Tableau dashboard files, comprising all visualization reports and interactive views (please choose the correct file extension based on your actual file). https://public.tableau.com/app/profile/zoey.smith/viz/1_17476774820920/Executiveoverview?publish=yes 
 
 data/: Contains the raw dataset (if the dataset is included in the repository).
 
